@@ -1,3 +1,8 @@
+/**
+ * @param {array} nums
+ * @param {number} integer
+ * @return {array}
+ */
 var twoSum = function (nums, target) {
   let hash = {};
 
