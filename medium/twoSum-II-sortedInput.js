@@ -2,7 +2,6 @@
  * @param {number[]} numbers
  * @param {number} target
  * @return {number[]}
- * @timecomplexity O(log n)
  */
 var twoSum = function (numbers, target) {
   let left = 0;
